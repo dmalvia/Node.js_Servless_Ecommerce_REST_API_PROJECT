@@ -1,0 +1,10 @@
+{
+  "name": "E-commerce Backend Project",
+  "runtime": "node/v16",
+  "retion": "US",
+  "envs": [
+    "ACCESS_TOKEN_SECRET",
+    "STRIPE_KEY"
+  ],
+  "typescript": false
+}
